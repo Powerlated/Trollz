@@ -1,0 +1,10 @@
+name: Troll
+version: 1.0
+main: troll.Troll
+depend: [LibsDisguises]
+commands:
+  troll:
+    description: Trolololololol
+    usage: Decompile the jar, and figure it out yourself!
+    permission: troll.use
+    permission-message: Screw you.
